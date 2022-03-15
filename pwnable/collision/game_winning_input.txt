@@ -1,0 +1,1 @@
+./col `python -c "import sys,struct; sys.stdout.write(struct.pack('I',0x6c5cec8) * 4 + struct.pack('I', 0x6c5cecc))"`

@@ -1,0 +1,3 @@
+# pwn.college
+
+So, while I think pwn.college is a great learning platform, unfortunately they ask that people [don't publicly post solutions to their challenges](https://pwn.college/#collaboration-livestream-and-writeup-policy). As a (hopefully) good compromise, I'm gonna put some of the source files I've written in relation to the challenges with anonymized filenames and without providing any context as to the problem they solve. The .s files you'll find here are x86 assembly.

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.darkarmy.xyz	TRUE	/	FALSE	1999999999	__cfduid	d182e0c645c7f220a3f5538df92ec63251613858677
+meme-stash.darkarmy.xyz	TRUE	/	FALSE	1999999999	SameSite	Lax
+
